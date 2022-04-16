@@ -1,9 +1,13 @@
 # The Network State
 
+## Summary
+
+The network state is a social network with a recognized founder, an integrated cryptocurrency, a definite purpose, a sense of national consciousness, and a plan to crowdfund territory. The state formation process begins with a founding influencer, who organizes the online community that eventually buys land in the physical world. Crucially, that land is not necessarily contiguous. In fact, by default, it’s distributed all over the world.
+
 ## Contents
 
 *[Summmary](summary-slides.pdf)
-*[The Network State](the-network-state.pdf)
+*[The Network State (White Paper)](the-network-state.pdf)
 *[All Slides](slides)
 
 ## Building Slides
