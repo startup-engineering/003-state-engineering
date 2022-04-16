@@ -1,5 +1,11 @@
 # The Network State
 
+## Contents
+
+*[Summmary](summary-slides.pdf)
+*[The Network State](the-network-state.pdf)
+*[All Slides](slides)
+
 ## Building Slides
 We use [marp.app](https://marp.app/) for generating slides from
 markdown. Here's how to build the slides for a given lecture.
