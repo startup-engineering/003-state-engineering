@@ -6,9 +6,9 @@ The network state is a social network with a recognized founder, an integrated c
 
 ## Contents
 
-*[Summmary](summary-slides.pdf)
-*[The Network State (White Paper)](the-network-state.pdf)
-*[All Slides](slides)
+* [Summmary](summary-slides.pdf)
+* [The Network State (White Paper)](the-network-state.pdf)
+* [All Slides](slides)
 
 ## Building Slides
 We use [marp.app](https://marp.app/) for generating slides from
